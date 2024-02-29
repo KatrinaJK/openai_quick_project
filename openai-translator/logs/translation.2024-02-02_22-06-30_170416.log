@@ -1,0 +1,340 @@
+2024-02-02 22:06:45.043 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2024-02-02 22:06:45.050 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2024-02-02 22:06:55.453 | DEBUG    | book.content:set_translation:54 - [translation]
+[水果, 颜色, 价格（美元）] [苹果, 红色, 1.20] [香蕉, 黄色, 0.50] [橙子, 橙色, 0.80] [草莓, 红色, 2.50] [蓝莓, 蓝色, 3.00] [猕猴桃, 绿色, 1.00] [芒果, 橙色, 1.50] [葡萄, 紫色, 2.00]
+2024-02-02 22:06:55.464 | DEBUG    | book.content:set_translation:63 - [translated_df]
+    水果  颜色 价格（美元）
+0   苹果  红色    1.2
+1   香蕉  黄色    0.5
+2   橙子  橙色    0.8
+3   草莓  红色    2.5
+4   蓝莓  蓝色    3.0
+5  猕猴桃  绿色    1.0
+6   芒果  橙色    1.5
+7   葡萄  紫色   2.00
+2024-02-02 22:06:55.466 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-02-02 22:06:55.466 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: tests/test_translated.md
+2024-02-02 22:06:55.467 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: tests/test_translated.md
+2024-02-02 22:20:13.014 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\1\AppData\Local\Temp\gradio\4b08eac05ccc3383ef846a6b49c5b50b7b1534f1\mcts.pdf
+源语言: English
+目标语言: Chinese
+2024-02-02 22:20:13.420 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ M
+Update
+January 29, 2024 05:15 PM GMT
+TSMC | Asia Pacific Morgan Stanley Taiwan Limited+
+Charlie Chan
+Equity Analyst
+US investor feedback; stay OW Charlie.Chan@morganstanley.com +886 2 2730-1725
+Daniel Yen, CFA
+Equity Analyst
+Daniel.Yen@morganstanley.com +886 2 2730-2863
+We met with 50+ US investors last week. With margin concern
+Ray Wu, CFA
+vanishing, US investors are willing to chase the AI growth story. Equity Analyst
+Ray.Wu@morganstanley.com +886 2 2730-2871
+1. Big picture – TSMC was a major laggard in 2023 in global large-cap tech Morgan Stanley Asia Limited+
+stocks, and was relatively cheap: TSMC stock was up 32% in 2023, vs. the Daisy Dai, CFA
+Equity Analyst
+NASDAQ Composite +54% and NVIDIA +239% (the TAIEX was +27%). Investors
+Daisy.Dai@morganstanley.com +852 2848-7310
+were looking for entry points, but hesitated a bit at the end of last year in view of: 1)
+Morgan Stanley Taiwan Limited+
+potential Apple iPhone order cuts, 2) 2024 gross margin compression; 3) Taiwan's
+Dylan Liu
+elections in early January. The stock wasn't expensive at 16x 2024e EPS exiting 2023. Equity Analyst
+Dylan.Liu@morganstanley.com +886 2 2730-1723
+2. 2024 gross margin expectations were actually reset ahead of 4Q23 results: Tiffany Yeh
+Our gross margin concern was well received by US investors. Hence, the 2024 gross Research Associate
+Tiffany.Yeh@morganstanley.com +886 2 7712-3032
+margin guidance on January 18 aligned with investors’ already reset expectations and
+Morgan Stanley appreciates your support in
+enabled refocus on TSMC's future/long-term growth opportunities. In fact, the
+the 2024 Institutional Investor All-Asia
+company’s 2024 gross margin may fall to 52% from 54% in 2023. Its 2H24 gross Research Team Survey. Request your ballot
+here.
+margin may decline sequentially from 1H24, both showing a downward trend. But
+from here, the downside surprise from the margin issue should be limited.
+3. 2024 revenue guidance was a beat, but US investors are still curious about the
+bottom-up outlook: The company guided for 2024 revenue to grow 20-25% Y/Y,
+beating consensus of +15%-20% Y/Y. We think AI semis should contribute most of
+TSMC(2330.TW, 2330 TT)
+the revenue growth in 2024. We estimate AI semis to contribute 15% of TSMC’s
+Greater China Technology Semiconductors | Taiwan
+revenue in 2024, vs. 6% in 2023. Some US investors are asking why TSMC’s CoWoS
+Stock Rating Overweight
+capacity is growing much faster than US AI capex in 2024. We think ASICs (or Industry View Attractive
+Price target NT$698.00
+custom chips) are consuming a sizable part of TSMC’s CoWoS capacity, but account
+Up/downside to price target (%) 8
+for a small portion of the global AI capex calculation – or even get ignored. Shr price, close (Jan 29, 2024) NT$648.00
+52-Week Range NT$648.00-489.00
+4. In the near term, concern about Apple iPhone order cuts is lingering: Apple Sh out, dil, curr (mn) 25,932
+Mkt cap, curr (mn) NT$16,803,970
+iPhone contributes around 15%-20% of TSMC’s revenue. TSMC customers' market EV, curr (mn) NT$16,227,651
+Avg daily trading value (mn) NT$15,599
+share loss to Huawei in China is turning into a 1%-2% revenue shortfall for TSMC, as
+Fiscal Year Ending 12/22 12/23e 12/24e 12/25e
+we analyzed in our Huawei 5G impact report. Some US investors are even concerned
+ModelWare EPS (NT$) 39.20 32.34 36.76 45.38
+that TSMC may fall short of 2024 revenue guidance (like wat happned with the
+Prior ModelWare EPS - - - -
+2023 guidance cut last July) given the weak smartphone demand. (NT$)
+EPS (NT$)§ 38.86 31.84 38.26 47.08
+5. Long-term debate – technology leadership and Intel outsourcing: US investors Revenue, net (NT$ bn) 2,263.9 2,161.7 2,651.4 3,159.5
+are confused about who is winning in terms of process technology in 2nm. But most
+Morgan Stanley does and seeks to do business with
+would agree that Intel’s backside foundry technology, PowerVia, is a very important companies covered in Morgan Stanley Research. As a result,
+investors should be aware that the firm may have a conflict of
+feature for 20A – and if that really enters production ahead of TSMC’s N2P in 2025, interest that could affect the objectivity of Morgan Stanley
+then Intel is ahead. However, we still think the maturity and cost of the process Research. Investors should consider Morgan Stanley
+Research as only a single factor in making their investment
+matters. We expect TSMC to be patient on Intel’s outsourcing business, unless Intel decision.
+decides not to build its 2nm capacity to a bigger scale (currently we see Intel For analyst certification and other important disclosures,
+refer to the Disclosure Section, located at the end of this
+ordering 15kwpm equipment for its Arizona fab in 2024). report.
++= Analysts employed by non-U.S. affiliates are not registered
+We remain OW – we think investors' expectations are reasonable. with FINRA, may not be associated persons of the member
+and may not be subject to FINRA restrictions on
+communications with a subject company, public appearances
+and trading securities held by a research analyst account.
+2024-02-02 22:20:13.466 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ M
+Update
+ModelWare net inc (NT 1,016.5 838.5 953.2 1,176.7
+$ bn)
+P/E 11.4 18.3 17.6 14.3
+P/BV 3.9 4.4 4.1 3.5
+RNOA (%) 62.1 38.4 37.0 41.0
+Div yld (%) 2.5 2.5 2.8 3.1
+Unless otherwise noted, all metrics are based on Morgan Stanley ModelWare
+framework
+§ = Consensus data is provided by Refinitiv Estimates
+e = Morgan Stanley Research estimates
+2
+2024-02-02 22:20:13.583 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ M
+Update
+AI becoming the major growth driver; further re-rating may
+come
+We remain OW – we think investors' expectations are
+reasonable
+The stock rose 10% after the print (vs. the TAIEX +5% and the NASDAQ +3%), bringing P/E
+to 17x new consensus 2024e EPS, around +1 standard deviation from the average since
+2018. The margin concern is now behind, while AI semis have become a clearer long-term
+growth driver – hence, we think the re-rating may continue.
+Within our coverage, MediaTek – our Top Pick – may provide better risk-reward at the
+current level, should edge AI proliferate in smartphones and PCs.
+We met with 50+ US investors last week and collected their
+feedback
+1. Valuation
+TSMC was a major laggard in 2023 in global large-cap tech stocks, and was relatively
+cheap: TSMC stock was up 32% in 2023, vs. the NASDAQ Composite +54% and NVIDIA
++239%. US investors were looking for entry points, but hesitated a bit toward the end of
+last year in view of:
+1. Potential Apple iPhone order cuts,
+2. Gross margin compression for 2024;
+3. Taiwan's election event in early January.
+The stock was not expensive at 16x our 2024e EPS exiting 2023.
+Exhibit 1: TSMC P/E multiple vs. global semi revenue growth – valuation to expand in
+cyclical upturn
+30
+25
++1SD: 19x
+20
+)x Avg: 17x
+(
+E
+/P
+15
+-1SD: 14x
+10
+5
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Source: Company data, Refinitiv, Morgan Stanley Research estimates
+2. Margin concern
+Morgan Stanley Research 3
+2024-02-02 22:30:23.842 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\1\AppData\Local\Temp\gradio\c5cc0131c29f7114f857f35f80acee041c1a4374\test.pdf
+源语言: English
+目标语言: Chinese
+2024-02-02 22:30:24.073 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2024-02-02 22:30:24.079 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2024-02-02 22:30:34.991 | DEBUG    | book.content:set_translation:54 - [translation]
+[水果, 颜色, 价格（美元）] [苹果, 红色, 1.20] [香蕉, 黄色, 0.50] [橙子, 橙色, 0.80] [草莓, 红色, 2.50] [蓝莓, 蓝色, 3.00] [猕猴桃, 绿色, 1.00] [芒果, 橙色, 1.50] [葡萄, 紫色, 2.00]
+2024-02-02 22:30:35.013 | DEBUG    | book.content:set_translation:63 - [translated_df]
+    水果  颜色 价格（美元）
+0   苹果  红色    1.2
+1   香蕉  黄色    0.5
+2   橙子  橙色    0.8
+3   草莓  红色    2.5
+4   蓝莓  蓝色    3.0
+5  猕猴桃  绿色    1.0
+6   芒果  橙色    1.5
+7   葡萄  紫色   2.00
+2024-02-02 22:30:35.017 | DEBUG    | translator.writer:save_translated_book:18 - markdown
+2024-02-02 22:30:35.018 | INFO     | translator.writer:_save_translated_book_markdown:90 - 开始导出: C:\Users\1\AppData\Local\Temp\gradio\c5cc0131c29f7114f857f35f80acee041c1a4374\test_translated.md
+2024-02-02 22:30:35.021 | INFO     | translator.writer:save_translated_book:28 - 翻译完成，文件保存至: C:\Users\1\AppData\Local\Temp\gradio\c5cc0131c29f7114f857f35f80acee041c1a4374\test_translated.md
+2024-02-02 22:31:15.854 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\1\AppData\Local\Temp\gradio\4b08eac05ccc3383ef846a6b49c5b50b7b1534f1\mcts.pdf
+源语言: English
+目标语言: Chinese
+2024-02-02 22:31:16.154 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ M
+Update
+January 29, 2024 05:15 PM GMT
+TSMC | Asia Pacific Morgan Stanley Taiwan Limited+
+Charlie Chan
+Equity Analyst
+US investor feedback; stay OW Charlie.Chan@morganstanley.com +886 2 2730-1725
+Daniel Yen, CFA
+Equity Analyst
+Daniel.Yen@morganstanley.com +886 2 2730-2863
+We met with 50+ US investors last week. With margin concern
+Ray Wu, CFA
+vanishing, US investors are willing to chase the AI growth story. Equity Analyst
+Ray.Wu@morganstanley.com +886 2 2730-2871
+1. Big picture – TSMC was a major laggard in 2023 in global large-cap tech Morgan Stanley Asia Limited+
+stocks, and was relatively cheap: TSMC stock was up 32% in 2023, vs. the Daisy Dai, CFA
+Equity Analyst
+NASDAQ Composite +54% and NVIDIA +239% (the TAIEX was +27%). Investors
+Daisy.Dai@morganstanley.com +852 2848-7310
+were looking for entry points, but hesitated a bit at the end of last year in view of: 1)
+Morgan Stanley Taiwan Limited+
+potential Apple iPhone order cuts, 2) 2024 gross margin compression; 3) Taiwan's
+Dylan Liu
+elections in early January. The stock wasn't expensive at 16x 2024e EPS exiting 2023. Equity Analyst
+Dylan.Liu@morganstanley.com +886 2 2730-1723
+2. 2024 gross margin expectations were actually reset ahead of 4Q23 results: Tiffany Yeh
+Our gross margin concern was well received by US investors. Hence, the 2024 gross Research Associate
+Tiffany.Yeh@morganstanley.com +886 2 7712-3032
+margin guidance on January 18 aligned with investors’ already reset expectations and
+Morgan Stanley appreciates your support in
+enabled refocus on TSMC's future/long-term growth opportunities. In fact, the
+the 2024 Institutional Investor All-Asia
+company’s 2024 gross margin may fall to 52% from 54% in 2023. Its 2H24 gross Research Team Survey. Request your ballot
+here.
+margin may decline sequentially from 1H24, both showing a downward trend. But
+from here, the downside surprise from the margin issue should be limited.
+3. 2024 revenue guidance was a beat, but US investors are still curious about the
+bottom-up outlook: The company guided for 2024 revenue to grow 20-25% Y/Y,
+beating consensus of +15%-20% Y/Y. We think AI semis should contribute most of
+TSMC(2330.TW, 2330 TT)
+the revenue growth in 2024. We estimate AI semis to contribute 15% of TSMC’s
+Greater China Technology Semiconductors | Taiwan
+revenue in 2024, vs. 6% in 2023. Some US investors are asking why TSMC’s CoWoS
+Stock Rating Overweight
+capacity is growing much faster than US AI capex in 2024. We think ASICs (or Industry View Attractive
+Price target NT$698.00
+custom chips) are consuming a sizable part of TSMC’s CoWoS capacity, but account
+Up/downside to price target (%) 8
+for a small portion of the global AI capex calculation – or even get ignored. Shr price, close (Jan 29, 2024) NT$648.00
+52-Week Range NT$648.00-489.00
+4. In the near term, concern about Apple iPhone order cuts is lingering: Apple Sh out, dil, curr (mn) 25,932
+Mkt cap, curr (mn) NT$16,803,970
+iPhone contributes around 15%-20% of TSMC’s revenue. TSMC customers' market EV, curr (mn) NT$16,227,651
+Avg daily trading value (mn) NT$15,599
+share loss to Huawei in China is turning into a 1%-2% revenue shortfall for TSMC, as
+Fiscal Year Ending 12/22 12/23e 12/24e 12/25e
+we analyzed in our Huawei 5G impact report. Some US investors are even concerned
+ModelWare EPS (NT$) 39.20 32.34 36.76 45.38
+that TSMC may fall short of 2024 revenue guidance (like wat happned with the
+Prior ModelWare EPS - - - -
+2023 guidance cut last July) given the weak smartphone demand. (NT$)
+EPS (NT$)§ 38.86 31.84 38.26 47.08
+5. Long-term debate – technology leadership and Intel outsourcing: US investors Revenue, net (NT$ bn) 2,263.9 2,161.7 2,651.4 3,159.5
+are confused about who is winning in terms of process technology in 2nm. But most
+Morgan Stanley does and seeks to do business with
+would agree that Intel’s backside foundry technology, PowerVia, is a very important companies covered in Morgan Stanley Research. As a result,
+investors should be aware that the firm may have a conflict of
+feature for 20A – and if that really enters production ahead of TSMC’s N2P in 2025, interest that could affect the objectivity of Morgan Stanley
+then Intel is ahead. However, we still think the maturity and cost of the process Research. Investors should consider Morgan Stanley
+Research as only a single factor in making their investment
+matters. We expect TSMC to be patient on Intel’s outsourcing business, unless Intel decision.
+decides not to build its 2nm capacity to a bigger scale (currently we see Intel For analyst certification and other important disclosures,
+refer to the Disclosure Section, located at the end of this
+ordering 15kwpm equipment for its Arizona fab in 2024). report.
++= Analysts employed by non-U.S. affiliates are not registered
+We remain OW – we think investors' expectations are reasonable. with FINRA, may not be associated persons of the member
+and may not be subject to FINRA restrictions on
+communications with a subject company, public appearances
+and trading securities held by a research analyst account.
+2024-02-02 22:31:16.199 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ M
+Update
+ModelWare net inc (NT 1,016.5 838.5 953.2 1,176.7
+$ bn)
+P/E 11.4 18.3 17.6 14.3
+P/BV 3.9 4.4 4.1 3.5
+RNOA (%) 62.1 38.4 37.0 41.0
+Div yld (%) 2.5 2.5 2.8 3.1
+Unless otherwise noted, all metrics are based on Morgan Stanley ModelWare
+framework
+§ = Consensus data is provided by Refinitiv Estimates
+e = Morgan Stanley Research estimates
+2
+2024-02-02 22:31:16.314 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ M
+Update
+AI becoming the major growth driver; further re-rating may
+come
+We remain OW – we think investors' expectations are
+reasonable
+The stock rose 10% after the print (vs. the TAIEX +5% and the NASDAQ +3%), bringing P/E
+to 17x new consensus 2024e EPS, around +1 standard deviation from the average since
+2018. The margin concern is now behind, while AI semis have become a clearer long-term
+growth driver – hence, we think the re-rating may continue.
+Within our coverage, MediaTek – our Top Pick – may provide better risk-reward at the
+current level, should edge AI proliferate in smartphones and PCs.
+We met with 50+ US investors last week and collected their
+feedback
+1. Valuation
+TSMC was a major laggard in 2023 in global large-cap tech stocks, and was relatively
+cheap: TSMC stock was up 32% in 2023, vs. the NASDAQ Composite +54% and NVIDIA
++239%. US investors were looking for entry points, but hesitated a bit toward the end of
+last year in view of:
+1. Potential Apple iPhone order cuts,
+2. Gross margin compression for 2024;
+3. Taiwan's election event in early January.
+The stock was not expensive at 16x our 2024e EPS exiting 2023.
+Exhibit 1: TSMC P/E multiple vs. global semi revenue growth – valuation to expand in
+cyclical upturn
+30
+25
++1SD: 19x
+20
+)x Avg: 17x
+(
+E
+/P
+15
+-1SD: 14x
+10
+5
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024
+Source: Company data, Refinitiv, Morgan Stanley Research estimates
+2. Margin concern
+Morgan Stanley Research 3

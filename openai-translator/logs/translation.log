@@ -1,0 +1,306 @@
+2024-02-28 16:26:14.636 | DEBUG    | __main__:translation:12 - [翻译任务]
+源文件: C:\Users\1\AppData\Local\Temp\gradio\88b3afbcd8e02d1bc3f3281bc401470ae97c2718\Progress in Phytochemical and Bioactivities of Coffea arabica L..pdf
+源语言: English
+目标语言: Chinese
+2024-02-28 16:26:15.331 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Medicine Research Minireview
+Cite this: Med. Res. 2020, 4, 200012. DOI: 10.21127/yaoyimr20200012
+Phytomedicine OPEN ACCESS
+Progress in Phytochemical and Bioactivities of Coffea arabica L.
+Xiao-Jing Shen,a Zhu-Bin Zhou,b Fan-Qiu Nie,b Cheng-Ting Zi,*,b and Jiang-Ping Fan*,a
+a College of Food Science and Technology, Yunnan Agricultural University, Kunming, Yunnan 650201, China
+b College of Science, Yunnan Agricultural University, Kunming, Yunnan 650201, China
+Email: zichengting@126.com (C. Z.), 1993033@ynau.edu.cn (J. F.)
+Abstract Coffea arabica L. is a famous specie in genus caffee for medicinal treatment and diet with wide
+distribution and rich resources. It contains rich alkaloids, flavonoids and terpenes, which exhibited antioxidation,
+anti-inflammatory, antitumor, antidiabetic, live protection, and neuroprotective activities. Herein, we summarized
+the progress in the chemical constituents and bioactivities of C. arabica L. to provide ideas for medicinal
+development prospects of C. arabica L.
+Keywords Coffea arabica L., chemical constituents, bioactivities, progress
+Introduction
+Flavonoids
+Coffee is one of the most important agricultural products in Flavonoids and their glycosides are widely present in the
+the world and is mainly distributed in Central and South leaves of C. arabica L. They are classified into different groups
+America, Africa and South Asia.[1] There are 124 species in including catechins, anthocyanin, myricetin, fisetin, patuletin,
+genus Coffea. Among them, Coffea liberica, Coffea robusta and luteolin, apigenin and quercetin. Ratanamarno et al.[5] reported
+Coffea arabica are used to make coffee beverage.[2] As the that catechin (C, 6), epicatechin (EC, 7), epicatechin gallate
+main region in China, Yunnan province occupies more than (ECG, 8) and epigallocatechin gallate (EGCG, 9) in fresh C.
+99% of coffee planting. Coffea arabica Linn. (C. arabica L.) from arabica L. leaves. Chen et al. identified delphinidin 3,5-digluco-
+Yunnan has been appraised as the world high quality coffee side (10) and delphinidin 3-(6"-malonyl-glucoside) (11) in the
+planting base by international coffee tasting experts. Coffee, as young leaves of C. arabica L.[6] Besides the above mentioned
+diuresis and stomach medicine, can be used to treat mental constituents, flavonoids and their glycosides were also isolated
+burnout and anorexia. Modern pharmacological studies
+from the leaves of C. arabica L., which were named as cya-
+revealed that C. arabica L. had the bioactivities of antioxidation,
+nidin-3-O-Glu (12), cyanidin-3-O- rutinoside (13), kaempferol
+anti-inflammatory, antitumor, antidiabetic, live protection, and
+(14), kaempferol-3-O-Glc (15), kaempferol-3-O-Glc-Hex-DeHex
+neuroprotective. Up to date, a total of 152 compounds involving
+(16), kaempferol-3-O-Glc-Hex (17), kaempferol-3-O-Glc-(6''-R-
+5 alkaloids, 25 flavonoids, 55 terpenes, 45 phenolic acids and
+ha) (18), quercetin (19), quercitrin (20), isoquercitrin (21), rutin
+their derivatives, 7 sterols and 10 other compounds have been
+(22), hyperoside (23), quercetin-3-O-Glc-Hex-DeHex (24),
+isolated from this plant. In this paper, we summarized some
+quercetin-3-O-Glu (25), luteolin (26), patuletin (27), fisetin (28),
+progresses of phytochemical and pharmacological activities of
+myricetin (29) and apigenin (30).[6-9] Their structures are shown
+C. arabica L. to provide a reference for better understanding its
+in Figure 2.
+effective substances.
+Terpenes
+Chemical Constituents
+Terpenes are another type of characteristic constituents in
+Up to 2020, 153 compounds have been isolated from C. arabica L. 55 terpenes include the skeletons of ent-kaurane,
+various parts of C. arabica L., including alkaloids, flavonoids, kahweol, villanovane diterpenoid, ent-kaurane diterpenoid
+terpenes, sterols, phenolic acids, and other compounds. glucosides, dammarane and pentacyclic triterpene. These
+terpenes were identified ursolic acid (31),[6] caffruone A—D
+Alkaloids
+(32—35),[10] caffruenol A—B (36—37),[11] caffruolide A—B
+Alkaloids are typical constituents of genus Coffea. Up to (38—39),[11] tricalysiolide A—E (40—43),[11] 16α,17-dihydroxy-
+date, five alkaloids have been isolated and identified from the ent-kauran-19-al (44),[11] 16β-17-hydroxy-ent-kauran-19-oic
+seeds and the stems of C. arabica L. (Figure 1). These alka- acid (45),[11] 16α,17-dihydroxy-ent-kauran-19-oic acid (46),[11]
+loids were identified as caffeine (1), theobromine (2), theophyl- 9β,16α,17-trihydroxy-ent-kauran-19oic acid (47),[11] 16β-7,17-
+line (3), trigonelline (4) and nicotinic acid (5).[3,4] Among them, dihydroxy-ent-kauran-19-oic-methyl ester (48),[11] 16α,17-di-
+caffeine is the highest in C. arabica L. as the main active in- hydroxy-9(11)-ent-kauren-19-oic acid (49),[11] (2β,4β,15α)-15-
+gredient and content.
+hydroxy-2-{[2-O-(3-methyl-1-oxo-butyl)]-β-D-glucopyrnosyl]-
+oxy}-18-nor-ent-kaur-16-en-18-oic acid (50),[11] caffarolide A—H
+(51—58),[12] mascaroside I—II (59—60),[13] paniculoside VI
+(61),[13] cofaryloside I (62),[13] villanovane I (63),[13] mozam-
+bioside (64),[13] bengalensol (65),[13] 19-norkaur-16-en-18-oic
+Figure 1 Alkaloids isolated from C. arabica L.
+Med. Res. 2020, 4, 200012 1
+2024-02-28 16:26:18.230 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Minireview
+Figure 2 Flavonoids isolated from C. arabica L.
+acid-15-hydroxy-2-[[2-O-(3-methyl-1-oxobutyl)-β-D-glucopyran-
+osyl]oxy]-(2β,4α,15α) (66),[13] 19-norkaur-16-en-18-oic acid-15-
+hydroxy-2-[[2-O-(3-methyl-1-oxobutyl)-β-D-glucopyranosyl]oxy]
+-(2β,4β,15α) (67),[13] 19-norkaur-16-en-18-oic acid-2-[[3-O-β-D-
+glucopyranosyl-2-O-(3-methyl-1-oxobutyl)-β-D-glucopyranosyl]
+oxy]-15-hydroxy-(2β,4α,15α) (68),[13] 2β,16α,17-trihydroxy-ent-
+kauran-19-oic acid (69),[13] paniculoside IV (70),[14] mascaroside
+III—V (71—73),[14] 20-nor-cofaryloside I—II (74—75),[14]
+villanovane (76),[14] tricalysione A (77),[14] 2β,16,17-trihydroxy-
+ent-kauran-19-oic acid (78), 2-O-(2-O-isovaleryl-β-D-gluco-
+pyranosyl)-4-atractyligenin (79),[14] 2-O-(2-O-isovaleryl-β-D-
+gluco-pyranosyl)-4β-atrac-tyligenin(80),[14] 3-O-β-D-glu-
+copyranosyl-2-O-(2-O-isovaleryl-β-D-glucopyranosyl)-4β-
+atracty ligenin (81),[14] kahweol (82),[6] cafestol (83),[6]
+16-O-methylcafestol (84)[6] and ent-kaurane diterpenoid (85).[6]
+Their structures are shown in Figure 3.
+Phenolic acids and their derivatives
+Phenolic acids and their derivatives from coffee main
+include mono-, di-caffeoylquinic acid and feruloylquinic acid,
+p-coumaroylquinic acid and their methyl esters. Asamenew
+et al.[15] identified 57 phenolic acids from 19 green and roasted
+coffee beans by UPLC (Figure 4), which were identified as
+vanillic acid (86), benzoic acid (87), p-hydroxybenzoic acid (88),
+3-hydroxybenzoic acid (89), gentosic acid (90), protocatechuic Figure 3 Terpenes isolated from C. arabica L.
+acid (91), caffeic acid (92), sinapic acid (93), p-coumaric acid
+(116), 3-O-feruloyl-5-O-caffeoylquinic acid (117), 3-O-feruloyl-4-
+(94), caftaric acid (95), 3-O-p-coumaroylquinic acid (96),
+O-caffeoylquinic acid (118), 4-O-feruloyl-5-O-caffeoylquinic acid
+5-O-p-coumaroylquinic acid (97), 4-O-p-coumaroylquinic acid
+(119), 3-O-caffeoyl-4-O-feruloylquinic acid (120), O-feruloylqui-
+(98), 3-O-caffeoylquinic acid (99), 4-O-caffeoylquinic acid (100),
+nic acid (121), 4-O-caffeoyl-5-O-feruloylquinic acid (122),
+4-O-caffeoylquinic acid (101), 1-O-caffeoylquinic acid (102),
+3-O-feruloyl-4-O-p-coumaroylquinic acid (123), 3-O-p-coumaro-
+3-O-caffeoylquinic acid methyl ester (103), 5-O-caffeoylquinic
+yl-5-O-feruloyl quinic acid (124), 4-O-p-coumaroyl-5-O-caffeoy-
+acid methyl ester (104), 3,4-di-O-caffeoylquinic acid (105),
+lquinic acid (125), caffeoyl-N-tryptophan (126), 5-O-caffeoyl-1,3
+3,4-di-O-caffeoylquinic acid (106), 4,5-di-O-caffeoylquinic acid
+-quinide (127), 3-O-caffeoyl-1,5-quinide (128), 4-O-caffeoyl-1,3-
+(107), 3,4-di-O-caffeoylquinic acid methyl ester (108), 3,5-di-O-
+3-quinide (129), 5-O-caffeoyl-1,4-quinide (130), 4-O-caffeoyl-
+caffeoylquinic acid methyl ester (109), 4,5-di-O-caffeoylquinic
+1,5-quinide (131), 3-O-feruloyl-1,5-quinide (132), 3,4-di-O-
+acid methyl ester (110), 3-O-feruloylquinic acid (111),
+caffeoyl-1,5-quinide (133), 4,5-di-O-caffeoyl-1,3-quinide (134),
+4-O-feruloylquinic acid (112), 5-O-feruloylquinic acid (113),
+3-O-caffeoyl-4-O-3-methylbutanoylquinic acid (135) and 3-O-
+1-O-feruloylquinic acid methyl ester (114), 3-O-feruloylquinic
+acid methyl ester (115), 5-O-feruloylquinic acid methyl ester
+caffeoyl-4-O-3-methylbutanoyl-1,5-quinide (136).
+2 www.medicineresearch.org Med. Res. 2020, 4, 200012
+2024-02-28 16:26:20.350 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Medicine Research
+Figure 6 Other compounds isolated from C. arabica L.
+Bioactivities
+The pharmacological study on C. arabica L. revealed that
+the crude extracts and pure compounds showed a wide range
+of biological activities, including antioxidation activity,
+Figure 4 Phenolic acids and their derivatives isolated from C. anti-inflammatory activity, antitumor activity, antidiabetic activity,
+arabica L. live protection activity, and neuroprotective activity.
+Antioxidation activity
+Zhang et al.[9] evaluated the antioxidant capacities of the
+extracts from C. arabica L. by the scavenging DPPH and
+ABTS+. The IC values of scavenging DPPH free radical and
+50
+ABTS+ were 1.082 and 1.085 mg/mL, respectively. Samuchaya
+et al.[18] found that the methanolic extract from leaves of C.
+arabica L. showed high antioxidant activity. Total antioxidant
+activity was significantly associated with drying and maturity,
+fresh young (92.93±0.51%), fresh mature (92.24±0.95%), dried
+young (95.01±0.44%), dried mature (93.40±0.70%),
+respectively. The methanolic extract from green beans of C.
+Figure 5 Sterols isolated from C. arabica L.
+arabica L. in the DPPH test showed an IC value of 86.14
+50
+Sterols μg/mL.[19] The methanolic extract from green beans of C.
+There are 7 sterols isolated from C. arabica L. (Figure 5), arabica L. in the DPPH test showed an IC 50 value of 86.14
+named β-sitosterol (137), stigmasterol (138), campesterol (139),
+μg/mL.[19]
+cholesterol (140), 5-avenasterol (141), 7-avenasterol (142), Anti-inflammatory activity
+and delta-7-stigmastenol (143).[4]
+The topical anti-inflammatory activity (carrageenan-induced
+Flavor compounds paw oedema) of an ointment prepared using a methanolic
+There are 28 kinds of characteristic flavor substances in extract from green beans of C. arabica L. histology was
+coffee, including aldehydes, alcohols, ketones, esters,
+evaluated.[19]
+pyrazines, guaiacol, vanillin, and so on. Hafsah et al.[16] Antitumor activity
+identified 101 volatile compounds regarding the metabolites
+According to a new study by Ei-Garawani, apoptotic
+from flowers and 72 from the skin pulp, green beans and
+anticancer pathway of the green and roasted C. arabica L.
+peaberry green beans of the robusta coffee plant by gas
+aqueous extracts combined with VC was examined on the
+chromatography-mass spectrometry (GC-MS). cancerous MCF-7 cell line and normal human lymphocytes.[20]
+Other compounds
+Antidiabetic activity
+Other types of compounds were isolated from C. arabica L.
+(Figure 6), named as mangiferin (144),[17] isomangiferin (145),[6] Sake et al.[21] found that C. arabica L. bean and leaf extract
+scopoletin (146),[6] α-carotene (147),[6] β-carotene (148),[6] showed a high decrease in blood glucose levels compared to
+neoxanthin (149),[6] lutein (160),[6] violaxanthin (151),[6] the control group. Mellbye et al.[22] found cafestol could increase
+antheraxanthin (152)[6] and zeaxanthin (153).[6] glucose-stimulated insulin secretion in vitro and increase
+glucose uptake in human skeletal muscle cells. Cafestol
+increased insulin secretion from isolated islets by 75%—87%
+Med. Res. 2020, 4, 200012 www.medicineresearch.org 3
+2024-02-28 16:26:20.766 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Minireview
+compared to the control group. Liu et al.[23] found that permitted, provided the original author(s) or licensor are credited and
+trigonelline had protective efficiency on type 2 diabetes and that the original publication in this journal is cited, in accordance with
+diabetic peripheral neuropathy by decreasing blood glucose. accepted academic practice. No use, distribution or reproduction is
+Ginsenoside Rb1 and trigonelline could prevent the permitted which does not comply with these terms.
+development of diabetic renal lesions by regulating the
+References
+expression of miR-3550 and further associating with the
+Wnt/β-catenin signaling.[24] [1] Wintgens, J. N. The Coffee Plant. In Coffee: Crowing, Processing,
+Live protection activity Sustuinuchle Production, Weinheim, 2004, pp. 1–14.
+Wiltberger et al.[25] reported that coffee consumption is [2] Davis, A. P.; Tosh, J.; Ruch, N.; Fay, M. F. Growing coffee:
+Psilanthus (Rubiaceae) subsumed on the basis of molecular and
+associated with a decreased risk of hepatocellular carcinoma
+morphological data; implications for the size, morphology,
+recurrence and provides for increased survival following
+distribution and evolutionary history of coffea. Bot. J. Linn. Soc.
+orthotopic liver transplantation. Multivariate analysis showed
+2011, 167, 357–377.
+that coffee intake emerged as a major factor of hazard
+reduction for overall survival postoperative. Vitaglione et al.[26] [3] Petermann, J. B.; Baumann, T. W. Metabolic Relations between
+Methylxanthines and Methyluric Acids in Coffea L. Plant Physiol.
+reported that coffee consumption could reduce high-fat
+1983, 73, 961–964.
+diet-induced liver macrovesicular steatosis and serum
+[4] Qiu, M. H.; Zhang, Z. R.; Li, Z. R.; Zhou, L.; Chu, R.; Liu, J. Q.;
+cholesterol, alanine aminotransferase and glucose.
+Wang, W. H. Review of research on the chemical constituents and
+Neuroprotective activity
+bioactivities of coffee. Plant Dcience J. 2014, 32, 540–550.
+Ishida et al.[27] found that 5-caffeoylquinic acid, one of the [5] Ratanamarno, S.; Surbkar, S. Caffeine and catechins in fresh
+primary coffee polyphenols, was determined degraded Aβ coffee leaf (Coffea arabica) and coffee leaf tea. Maejo Int. J. Sci.
+fibrils.[27] Zeitlinet et al.[28] confirmed caffeine shifted the balance Technol. 2017, 11, 211–218.
+between neurodegeneration and neuronal survival toward the [6] Chen, X. M. A review on coffee leaves: phytochemicals,
+stimulation of pro-survival cascades and inhibited pro-apoptotic bioactivities and applications. Crit. Rev. Food Sci. Nutr. 2019, 59,
+pathways in the striatum and/or cortex to against AD. Using a 1008–1025.
+MPTP neurotoxin model of PD, Chen et al.[29] confirmed that [7] Júnior, A. P. D.; Shimizu, M. M.; Moura, J. C. M. S.; Catharino, R.
+caffeine might protect against PD and PD-like features by R.; Ramos, R. V. R.; Ribeiro, R. V.; Mazzafera, P. Looking for the
+stabilizing the BBB in part. The combination of theanine plus physiological role of anthocyanins in the leaves of coffea arabica.
+caffeine as a neuroprotective potential effect.[30] Trigonelline Photochem. Photobiol. 2012, 88, 928–937.
+has a potential therapeutic effect on the heart tissue of colitis [8] Patay, E. B.; Bencsik, T.; Papp, N. Phytochemical overview and
+and a neuroprotective effect, which can improve cognition and medicinal importance of coffea species from the past until now.
+alleviate neuronal loss.[31,32] Asian Pac. J. Trop. Med. 2016, 9, 1127–1135.
+[9] Zhang, Y. H.; Fu, X. P.; Liang, W. J.; Han, Z. H.; Liu, S. Y.; Yuan, W.;
+Conclusion and Perspective
+Fan, J. P. Antioxidant activity and composition of anthocyanins of
+In summary, C. arabica L. is widely distributed in Yunnan crude extracts from Yunnan arabica coffee husk. Food Sci. Technol.
+province in China as a high medicinal value plant. With the 2016, 41, 219–223.
+improvement of modern instruments and experimental [10] Wang, X.; Peng, X. R.; Lu, J.; Hu, G. L.; Qiu, M. H. New
+techniques, many chemical constituents have been isolated Dammarane Triterpenoids, Caffruones A-D, from the Cherries of
+from C. arabica L. including alkaloids, flavonoids, terpenes, Coffea arabica. Nat. Prod. Bioprospect. 2018, 8, 413–418.
+phenolic acids and their derivatives, sterols, flavor compounds [11] Wang, X.; Peng, X. R.; Lu, J.; Hu, G. L.; Qiu, M. H. Ent-kaurane
+and other compounds. The diversity of its chemical ingredients diterpenoids from the cherries of Coffea arabica. Fitoterapia 2019,
+leads to a wide range of pharmacological activities such as 132, 7–11.
+antioxidation, anti-inflammatory, antitumor, antidiabetic, live [12] Wang, X.; Meng, Q. Q.; Peng, X. R.; Hu, G. L.; Qiu, M. H.
+protection, and neuroprotective activities. It should be pointed Identification of new diterpene esters from green Arabica coffee
+out that the researchers are mainly focused on finding beans, and their platelet aggregation accelerating activities. Food
+compounds in C. arabica L., but they do not conduct in-depth Chem. 2018, 263, 251–257.
+research on the mechanism of their action. Therefore, for more [13] Shu, Y.; Liu, J. Q.; Peng, X. R.; Wan, L. S.; Zhou, L.; Zhang, T.
+rationally and effectively to develop resources in C. arabica L., Characterization of Diterpenoid Glucosides in Roasted Puer
+researchers should perform further research on its chemical Coffee Beans. J. Agr. Food Chem. 2014, 62, 2631–2637.
+constituents, bioactivities and the mechanism of action in the [14] Chu, R.; Wan, L. S.; Peng, X. R.; Yu, M. Y.; Zhang, Z. R.; Zhou, L.;
+future. Li, Z. R.; Qiu, M. H. Characterization of New Ent-kaurane
+Diterpenoids of Yunnan Arabica Coffee Beans. Nat. Prod.
+Acknowledgement
+Bioprospect. 2014, 6, 217–223.
+This work was supported by the National Natural Science [15] Asamenew, G.; Kim, H. W.; Lee, M. K.; Lee, S. H.; Lee, S. J.; Cha,
+Foundation of China-Yunnan Joint Fund (CN) (No. U1902206) Y. S.; Lee, S. H.; Yoo, S. M.; Kim, J. B. Comprehensive
+and the National Nature Science Foundation of China (Nos. characterization of hydroxycinnamoyl derivatives in green and
+21602196, 31960075). roasted coffee beans: A new group of methyl hydroxycinnamoyl
+quinate. Food Chem. 2019, X2, 100033.
+Conflict of Interest
+[16] Hafsah, H.; Iriawati, I.; Syamsudin, T. S. Dataset of volatile
+compounds from flowers and secondary metabolites from the skin
+The authors declare no conflict of interest.
+pulp, green beans, and peaberry green beans of robusta coffee.
+Data in Brief 2020, 29, 105219.
+Copyright © 2020 Xiao-Jing Shen, Zhu-Bin Zhou, Fan-Qiu Nie,
+[17] Acidri, R.; Sawai, Y.; Sugimoto, Y.; Handa, T.; Sasagawa, D.;
+Cheng-Ting Zi, and Jiang-Ping Fan. This article is an open access
+Masunaga, T.; Yamamoto, S.; Nishihara, E. Phytochemical Profile
+article distributed under the terms and conditions of the Creative
+and Antioxidant Capacity of Coffee Plant Organs Compared to
+Commons Attribution (CC BY) license (http://creativecommons.org/
+Green and Roasted Coffee Beans. Antioxidants 2020, 9, 1–18.
+licenses/by/4.0/). The use, distribution or reproduction in other forums is
+4 www.medicineresearch.org Med. Res. 2020, 4, 200012
+2024-02-28 16:26:21.045 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Medicine Research
+[18] Ngamsuk, S.; Huang, T. C.; Hsu, J. L. Determination of Phenolic Guido, M.; Savoia, M.; Salomone, F.; Mennella, I.; Filippis, F. D.;
+Compounds, Procyanidins, and Antioxidant Activity in Processed Ercolini, D.; Caporaso, N.; Morisco, F. Coffee prevents fatty liver
+Coffea arabica L. Leaves. Foods 2019, 8, 1–13. disease induced by a high-fat diet by modulating pathways of the
+[19] Perolizzi, S.; D’Angelo, V.; Aragona, M.; Dugo, P.; Cacciola, F.; gut–liver axis. J. Nutr. Sci. 2019, 8, 1–11.
+Capillo, G.; Dugo, G.; Lauriano, E. R. Nat. Prod. Res. 2018, 3, 1–7. [27] Ishida, K.; Yamamoto, M.; Misawa, K.; Nishimura, H.; Misawa, K.;
+[20] El-Garawani, I. M.; El-Nabi, S. H.; El-Shafey, S.; Elfiky, M.; Nafie, E. Ota, N.; Shimotoyodome, A. Coffee polyphenols prevent cognitive
+Coffea arabica Bean Extracts and Vitamin C: A Novel Combination dysfunction and suppress amyloid β plaques in APP/PS2
+Unleashes MCF-7 Cell Death. Curr. Pharm. Biotechnol. 2020, 21, transgenic mouse. Neurosci. Res. 2019, 154, 35–44.
+23–36. [28] Zeitlin, R.; Patel, S.; Burgess, S.; Arendash, G. W.; Echeverria, V.
+[21] Martina, S. J.; Govindan, P. A.; Wahyuni, A. S. The Difference in Caffeine induces beneficial changes in PKA signaling and JNK and
+Effect of Arabica Coffee Gayo Beans and Leaf (Coffea Arabica ERK activities in the striatum and cortex of Alzheimer’s transgenic
+Gayo) Extract on Decreasing Blood Sugar Levels in Healthy Mice. mice. Brain Res. 2011, 1417, 127–136.
+Open Access Macedonian J. Med. Sci. 2019, 7, 3363–3365. [29] Chen, X.; Lan, X.; Roche, I.; Liu, R.; Geiger, J. D. Caffeine protects
+[22] Mellbye, F. B.; Jeppesen, P. B.; Shohouh, P.; Lausten, C.; against MPTP-induced blood-brain barrier dysfunction in mouse
+Hermansen, K.; Gregersen, S. Cafestol, a bioactive substance in striatum. J. Neurochem. 2008, 107, 1147–1157.
+coffee, has antidiabetic in KKAy mice. J. Nat. Prod. 2017, 80, [30] Sun, L.; Tian, X.; Gou, L.; Ling, X.; Wang, L.; Feng, Y.; Xing Y, X.;
+2353–2359. Liu, Y. Beneficial synergistic effects of concurrent treatment with
+[23] Liu, L.; Du, X.; Zhang, Z.; Zhou, J. Y. Trigonelline inhibits caspase 3 theanine and caffeine against cerebral ischemia reperfusion injury
+to protect β cells apoptosis in streptozotocin-induced type 1 in rats. Can. J. Physiol. Pharm. 2013, 91, 562–569.
+diabetic mice. Eur. J. Pharmacol. 2018, 836, 115–121. [31] Omidiardali, H.; Lorigooini, Z.; Soltani, A.; Balali-Dehkordi. S.;
+[24] Shao, X. N.; Chen, C.; Miao, C. S.; Yu, X. Y.; Li, X. J.; Geng, J. N.; Amini-Khoei, H. Inflammatory responses bridge comorbid cardiac
+Fan, D. Y.; Lin, X. Y.; Chen, Z.; Shi, Y. Expression analysis of disorder in experimental model of IBD induced by DSS: protective
+microRNAs and their target genes during experimental diabetic effect of the trigonelline. Inflammopharmacology 2019, 27,
+renal lesions in rats administered with ginsenoside Rb1 and 1265–1273.
+trigonelline. Pharmazie 2019, 74, 492–498. [32] Fahanik, B. J.; Baluchejadmojarad, T.; Nikbakht, F.; Roghani, M.
+[25] Wiltberger, G.; Wu, Y.; Lange, U.; Hau, H. M.; Tapper, E.; Krenzien, Trigonelline protects hippocampus against intracerebral Aβ (1–40)
+F.; Atanasov, G.; Benzing, C.; Feldbrügge, L.; Csizmadia, E.; as a model of Alzheimer's disease in the rat: insights into
+Broschewitz, J.; Bartels, M.; Seehofer, D.; Jonas, S.; Berg, T.; underlying mechanisms. Metab. Brain Dis. 2019, 34, 191–201.
+Hessel, P.; Ascherl, R.; Neumann, U. P.; Pratschke, J.; Robson, S.
+C.; Schmelzle, M. Protective effects of coffee consumption
+Received June 10, 2020
+following liver transplantation for hepatocellular carcinoma in
+Accepted July 20, 2020
+cirrhosis. Aliment. Pharm. Ther. 2019, 49, 779–788.
+[26] Vitaglione, P.; Mazzone, G.; Lembo, V.; D'Argenio, G.; Rossi, A.;
+Med. Res. 2020, 4, 200012 www.medicineresearch.org 5
